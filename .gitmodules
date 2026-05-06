@@ -1,0 +1,3 @@
+[submodule "Originals/demon/demon"]
+	path = Originals/demon/demon
+	url = https://github.com/cju-media/demon.git
